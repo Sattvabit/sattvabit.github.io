@@ -1,2 +1,3 @@
 # Sattvabit
-Upcoming Startup.. More Info coming soon..
+
+Legacy static site. See [sattvabit.com](https://www.sattvabit.com)
